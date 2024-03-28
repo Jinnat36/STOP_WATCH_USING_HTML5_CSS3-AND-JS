@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(9, 3, 3);
+ }
+
+ h1 {
+     color: rgb(226, 190, 190);
+     text-shadow: 5px 5px 3px red;
+ }
+
+ div {
+     display: inline;
+ }
+
+ #main {
+     height: 40%;
+     text-align: center;
+     position: absolute;
+     transform: translate(-50%, -50%);
+     top: 55%;
+     left: 51%;
+     background: rgb(206, 198, 82);
+     width: 34%;
+     margin: -10px auto;
+     padding: 30px
+ }
+
+ .digit {
+     font-size: 500%;
+ }
+
+ #buttom {
+     display: block;
+ }
+
+ #stopwatch {
+     padding-left: 2%;
+     font-size:2cm;
+ }
+
+ .btn {
+     display: inline-block;
+     background-color: tomato;
+     padding: 1cap;
+     margin: 2cap;
+ }
+
+ .btn:hover {
+     background-color: crimson;
+ }
