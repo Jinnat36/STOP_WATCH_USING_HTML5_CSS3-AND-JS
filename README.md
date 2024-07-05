@@ -64,3 +64,5 @@ This project demonstrates a basic implementation of a stopwatch using HTML, CSS,
 
 OUTPUT :--
 
+![Screenshot 2024-07-05 204810](https://github.com/Jinnat36/STOP_WATCH_USING_HTML5_CSS3-AND-JS/assets/157870456/5b5f753c-e3fa-4c4e-96b5-403bde9d6fc7)
+
